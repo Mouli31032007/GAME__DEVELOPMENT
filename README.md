@@ -2,7 +2,7 @@
 
 **AIM**
 
-To write a c program to implement 2D transformation of image.
+To write a c program to implement 2D transformation of image..
 
 
 **ALGORITHM**
